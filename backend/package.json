@@ -1,7 +1,7 @@
 {
-  "name": "xtal",
+  "name": "softwise",
   "version": "1.0.0",
-  "description": "xtal",
+  "description": "softwise",
   "main": "dist/server.js",
   "type": "module",
   "scripts": {
