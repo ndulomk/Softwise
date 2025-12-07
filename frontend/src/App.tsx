@@ -164,10 +164,10 @@ export default function App() {
                 <SectionHeader title="Stack Moderna" subtitle="Tecnologia" />
                 
                 <p className="text-xl font-bold mb-6 leading-relaxed max-w-lg">
-                  Usamos as ferramentas mais modernas do mercado para garantir 
+                  Adotamos tecnologias de ponta para maximizar 
                   <span className="text-[#006C93]"> velocidade</span>, 
                   <span className="text-[#FF4D00]"> escalabilidade</span> e 
-                  <span className="text-black"> performance</span>.
+                  <span className="text-black"> eficiência</span> operacional.
                 </p>
                 
                 <BrutalButton 

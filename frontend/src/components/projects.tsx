@@ -14,10 +14,10 @@ export const Projects = () => {
         title: "Fanito",
         category: "ERP / Fintech",
         description: "Sistema completo de facturação certificado pela AGT com exportação SAFT-PT/AO, gestão avançada de stock (lotes, séries, vencimentos, multi-armazém), controlo de despesas, contas correntes, reconciliação bancária automática e POS integrado.",
-        imageUrl: "https://images.unsplash.com/photo-1558655146-9f40138ed1cb?auto=format&fit=crop&w=1600&q=80",
+        imageUrl: "/fanito.png",
         tags: ["TypeScript", "Next.js", "Drizzle ORM", "PostgreSQL", "Node.js", "Electron", "SAFT-AO", "Zod", "Tailwind"],
         metrics: {
-          users: "500+",
+          users: "50+",
           uptime: "99.9%",
           performance: "A+"
         }
@@ -26,11 +26,11 @@ export const Projects = () => {
         id: "2",
         title: "InstantPay",
         category: "Payment Gateway",
-        description: "Gateway de pagamentos nacional em construção com arquitetura de micro-serviços. Suporte a Multicaixa Express, EMIS Pay, transferências bancárias, carteiras móveis e QR dinâmico. Foco em alta disponibilidade, reconciliação automática e webhooks em tempo real.",
-        imageUrl: "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?auto=format&fit=crop&w=1600&q=80",
-        tags: ["Go", "TypeScript", "PostgreSQL", "NATS", "Docker", "Kubernetes", "Redis", "gRPC", "REST"],
+        description: "Gateway de pagamentos nacional em construção com arquitetura de micro-serviços. Suporte a transferências bancárias, carteiras móveis e QR dinâmico. Foco em alta disponibilidade, reconciliação automática e webhooks em tempo real.",
+        imageUrl: "/instant.jpg",
+        tags: ["Go", "TypeScript", "PostgreSQL", "Docker", "Kubernetes", "Redis", "gRPC", "REST"],
         metrics: {
-          transactions: "10k+",
+          transactions: "1k+",
           uptime: "99.99%",
           latency: "<100ms"
         }

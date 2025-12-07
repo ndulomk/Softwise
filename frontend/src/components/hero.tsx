@@ -18,7 +18,7 @@ export const Hero = () => {
   });
 
   return (
-    <section className="relative min-h-screen flex items-center pt-20 overflow-hidden bg-[#F4F4F4]">
+    <section className="relative min-h-screen flex items-center pt-30 overflow-hidden bg-[#F4F4F4]">
       {/* Grid Pattern Background */}
       <div className="absolute inset-0 opacity-[0.05]" style={{ 
         backgroundImage: `linear-gradient(#000 1px, transparent 1px), linear-gradient(90deg, #000 1px, transparent 1px)`, 
@@ -113,9 +113,8 @@ export const Hero = () => {
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: 0.6 }}
           >
-            Nós não fazemos apenas sites. Nós construímos 
-            <span className="font-black text-[#FF4D00]"> sistemas escaláveis</span> que 
-            impulsionam o mercado Angolano.
+           Construímos <span className="font-black text-[#FF4D00]"> infraestruturas digitais escaláveis</span> para impulsionar o crescimento sustentável do mercado angolano.
+            
           </motion.p>
 
           {/* Stats Cards - SEMPRE VISÍVEIS */}
