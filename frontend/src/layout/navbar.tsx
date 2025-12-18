@@ -334,10 +334,10 @@ export const Navbar = () => {
                 Get in touch
               </div>
               <a 
-                href="mailto:hello@softwise.ao"
+                href="mailto:geral@softwise-investments.com"
                 className="text-white font-bold text-sm hover:text-[#FF4D00] transition-colors block mb-1"
               >
-                hello@softwise.ao
+                geral@softwise-investments.com
               </a>
               <a 
                 href="tel:+244923000000"
